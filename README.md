@@ -1,0 +1,2 @@
+# nginx_image_filter_module_bmp_support
+让nginx image_filter module支持bmp格式图片
